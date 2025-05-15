@@ -36,5 +36,3 @@ all the screenshot attached to sample_image folder
 
 ---
 
-## 📦 Installation
-
