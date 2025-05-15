@@ -30,6 +30,7 @@ Welcome to the **Expense Tracker** — a personal finance management web applica
 ---
 
 ## 📸 Screenshots
+all the screenshot attached to sample_image folder
 
 
 
